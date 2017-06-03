@@ -27,3 +27,6 @@ HOW TO RUN:
 
 	./bin/fcr ../inputs/test144_b_input.txt
 ======
+
+完整報告：
+https://github.com/jimmytecho/Flip-Chip-Routing/blob/master/doc/Alg_Final_Report.pdf
